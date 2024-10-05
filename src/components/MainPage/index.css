@@ -1,0 +1,8 @@
+.main-cont{
+    background-color: aqu;
+    height: auto;
+}
+.ul-cont{
+    display: flex;
+    flex-wrap: wrap;
+}
